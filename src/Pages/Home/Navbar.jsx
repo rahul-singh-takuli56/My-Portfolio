@@ -33,9 +33,13 @@ function Navbar() {
   }, []);
 
   return (
+
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+        <p style={{ backgroundColor: 'white', color: 'black', fontWeight: 'bold', fontSize: '2.5rem' }}>
+          Rahul Singh Takuli
+        </p>
+        {/* <img src="./img/logo.svg" alt="Logoipsum" /> */}
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}

@@ -29,23 +29,23 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Job Portal Website",
+      "description": "Developed a dynamic job portal website using React, Redux, and Firebase, achieving a substantial increase in user engagement and a significant reduction in communication-related errors. Secure Firebase-based user authentication. Versatile job filtering system (location, job title, parttime/full-time/remote). Blog feature for community engagement. Comprehensive review system for transparency Feedback and contact section for communication.",
+      "link": "https://github.com/rahul-singh-takuli56/Job_Portal_Website"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "E-Commerce Website",
+      "description": "Developed a dynamic e-commerce website using React, Redux, and Firebase, resulting in a substantial increase in user engagement and a notable reduction in communication-related errors.",
+      "link": "https://github.com/rahul-singh-takuli56/E-commerce-Website"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Sorting Visualizer",
+      "description": "Created a Sorting Visualizer project using React, CSS, HTML and Firebase, enabling real-time visualization of various sorting algorithms.Visualizes sorting algorithms like merge, quick, heap, and more using vertical bars with distinct colors. Differentiates changing bars during sorting. Highlights the current bar in the sorting process.",
+      "link": "https://github.com/rahul-singh-takuli56/Sorting_Visualizer/tree/master/Sorting_Visualizer"
     }
   ],
   "testimonial": [
