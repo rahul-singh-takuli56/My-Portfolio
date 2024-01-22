@@ -33,6 +33,7 @@ const App = () => {
     )
   })
 
+  
   return (
     <div className='flex h-screen w-full justify-center items-center  gap-8'>
       <div className='Board'>

@@ -27,6 +27,7 @@ const Boards = ({ xIsNext, squares, onPlay }) => {
         status = "Next Player: " + (xIsNext ? "X" : "0");
     }
 
+    
     return (
         <>
             <h2 className='mb-2 text-lg'>{status}</h2>
