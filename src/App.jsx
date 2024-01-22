@@ -33,10 +33,13 @@ const App = () => {
     )
   })
 
-  
+
   return (
-    <div className='flex h-screen w-full justify-center items-center  gap-8'>
-      <div className='Board'>
+    <div className='bg-green-500 flex h-screen  w-full justify-center items-center  gap-8'>
+      <div className='Board bg-violet-500 p-3'>
+        <div className='bg-red-400 p-3 font-bold m-1' >
+          <h1>TIC TAC TOE GAME</h1>
+        </div>
         <Boards xIsNext={xIsNext} squares={currentSquare} onPlay={handlePlay} />
       </div>
       <div>
