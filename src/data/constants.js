@@ -184,8 +184,8 @@ export const projects = [
       "FireBase"
     ],
     category: "web app",
-    github: "https://github.com/rahul-singh-takuli56/amazon_clone",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/rahul-singh-takuli56/amazon-clone",
+    webapp: "https://e-commerce-website-amazon.vercel.app/",
   },
   {
     id: 9,
