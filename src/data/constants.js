@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/rahul-singh-takuli56",
   resume:
-    "https://drive.google.com/file/d/1rHm6bl8hFilqsRjZ5PfivL5G66HjG0bb/view",
+    "https://drive.google.com/file/d/1_LQ2v7llGZRcOKFqkAK5X_BW-ICb6mCR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rahulsinghtakuli/",
   twitter: "https://twitter.com/Taku3Singh",
   insta: "https://www.instagram.com/rahul_singh_takuli/",
