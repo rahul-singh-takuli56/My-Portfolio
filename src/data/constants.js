@@ -166,6 +166,19 @@ export const education = [
 
 export const projects = [
   {
+    id: 5,
+    title: "Style Hub",
+    date: "Feb 2023",
+    description:
+      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+    image:
+      "https://github.com/rahul-singh-takuli56/StyleHub/assets/118590603/2b6fab61-62b1-4d8c-96d3-882d15c0bf39",
+    tags: ["React Js", "Local Storage", "Firebase Auth", "Tailwind", "Redux"],
+    category: "web app",
+    github: "https://github.com/rahul-singh-takuli56/StyleHub",
+    webapp: "https://style-hub-fr6q.vercel.app/",
+  },
+  {
     id: 11,
     title: "Amazon-Clone",
     date: "Jan 2023 - Mar 2023",
@@ -220,7 +233,7 @@ export const projects = [
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rahul-singh-takuli56/E-commerce-Website?tab=readme-ov-file",
-    webapp: "https://podstream.netlify.app/",
+    webapp: "",
 
   },
   {
@@ -240,7 +253,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/rahul-singh-takuli56/Expense_Tracker",
-    webapp: "https://vexa-app.netlify.app/",
+    webapp: "",
   },
   {
     id: 2,
@@ -259,33 +272,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/rahul-singh-takuli56/Sorting_Visualizer/tree/master",
-    webapp: "https://brain-tumor.netlify.app/",
-  },
-  {
-    id: 3,
-    title: "Expense Tracker",
-    date: "Dec 2021 - Apr 2022",
-    description:
-      "I've developed an Expense Tracker application using a comprehensive tech stack incorporating HTML, CSS, JavaScript, and React. By leveraging state-of-the-art data management techniques and interactive visualization methods, users can efficiently track and manage their expenses in real-time. Moreover, I've implemented intuitive user interfaces and responsive design principles to deliver a seamless and user-friendly experience, empowering users to effortlessly monitor their financial activities with precision and clarity.",
-    image:
-      "https://camo.githubusercontent.com/3ad28aa710d18525f1fc87de056ed53c706d09979589bfd5a773df36653bad38/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  },
-  {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
-    description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    webapp: "",
   },
   /*
   {
@@ -359,9 +346,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  // { year: 2017, text: "Started my journey" },
+  // { year: 2018, text: "Worked as a freelance developer" },
+  // { year: 2019, text: "Founded JavaScript Mastery" },
+  // { year: 2020, text: "Shared my projects with the world" },
+  // { year: 2021, text: "Started my own platform" },
 ];
+
